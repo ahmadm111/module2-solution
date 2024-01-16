@@ -25,7 +25,8 @@ h2,#h {
 }
 section {
 	margin-top: 50px;
-	margin-left: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #div1 {background-color: gray; margin: 5%;}
 #div2 {background-color: pink; margin: 5%;}
